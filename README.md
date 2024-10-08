@@ -1,5 +1,5 @@
 <a href="https://ibb.co/pnqXJSH"><img src="https://i.ibb.co/d7ZKGRN/DALL-E-2024-10-08-21-57-43-A-minimalist-Git-Hub-banner-for-the-username-Sandy46-S-focused-on-softwar.jpg" alt="DALL-E-2024-10-08-21-57-43-A-minimalist-Git-Hub-banner-for-the-username-Sandy46-S-focused-on-softwar" border="0" /></a>
-<h2 align="left">👋 Hello, I'm Sandy46S!</h2>
+<h2 align="center">👋 Hello, I'm Sandy46S!</h2>
 
 <p align="left">
   I'm a passionate software developer with expertise in both frontend and backend development. I’m always looking for opportunities to work with innovative teams and make a meaningful impact through technology.
